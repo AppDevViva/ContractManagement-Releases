@@ -1,0 +1,7 @@
+v1.0.2 - Release
+- 2 version of Contract Management App
+
+v1.0.1 - Bug Fixes
+- Fixed contract dual confirmation prompt.
+- Fixed import preview of artist bulk upload.
+- Fixed individual upload of contracts.
