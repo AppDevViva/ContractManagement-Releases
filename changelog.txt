@@ -1,5 +1,5 @@
 v1.0.1 - Beta Release
-- 2 version of Contract Management App
+- Beta test version of Contract Management App
 
 v1.0.1 - Bug Fixes
 - Fixed contract dual confirmation prompt.
