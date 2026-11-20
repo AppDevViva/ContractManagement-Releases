@@ -1,4 +1,4 @@
-v1.0.2 - Release
+v1.0.1 - Beta Release
 - 2 version of Contract Management App
 
 v1.0.1 - Bug Fixes
